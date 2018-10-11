@@ -1,21 +1,21 @@
 p {
   font-family: Arial;
 }
-p {
-  font-family: Arial;
-}
 
 h1 {
   color: maroon;
 }
+
 .title {
   color: teal;
 }
-.uppercase{text-transform:uppercase;}
 
+.uppercase {
+  text-transform: uppercase;
 }
 .publish-time {
   color: gray;
 }
-#article-title{font-family: cursive;
-text-transform: capitalize;}
+.cursive{font-family:cursive;}
+
+.capitalize{text-transform:capitalize;}
