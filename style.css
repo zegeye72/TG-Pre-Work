@@ -26,5 +26,5 @@ h2.destination{
 
 .description h5 {
   color: teal
-  color: rebeccapurple;
+    color: rebeccapurple !important;
 }
