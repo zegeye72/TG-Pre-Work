@@ -52,6 +52,7 @@ strong {
   position: fixed;
   top: 0;
   width: 100%;
+  font-weight:900;
 }
 
 .header li {
@@ -151,6 +152,7 @@ a.home {
 
   .header a {
     padding: 30px 20px;
+    font-weight:900;
   }
 
   a.home {
