@@ -13,7 +13,8 @@ h1, h2 {
 }
 
 header {
-  background-color: dodgerblue;
+  background-color: dodgerblue
+  grid-area: header; 
 }
 
 nav {
