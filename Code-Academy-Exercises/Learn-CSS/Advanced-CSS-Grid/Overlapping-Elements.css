@@ -29,6 +29,7 @@ nav {
 
 .right {
   background-color: beige;
+  grid-area: 4/5/9/7;
 }
 
 .overlap {
