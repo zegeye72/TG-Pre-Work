@@ -10,15 +10,14 @@ put your answer here
 
 ## What code is rendered in the browser?
 
-put your answer here
-
+By default the rendering engine can display HTML and XML documents and images.
 ## What is the server-side code’s main function?
 
-put your answer here
+The main functions is validating submitted data and requests, using databases to store and retrieve data and sending the correct data to the client as required.
 
 ## What is the client-side code’s main function?
 
-put your answer here
+ Running in the browser and rendered web page.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
